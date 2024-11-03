@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rr1VE8el++0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\EndV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm\\8.10.3\\ikvm.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.bytecode\\9.2.2\\ikvm.bytecode.9.2.2.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image\\8.10.3\\ikvm.image.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.linux-arm\\8.10.3\\ikvm.image.runtime.linux-arm.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.linux-arm64\\8.10.3\\ikvm.image.runtime.linux-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.linux-musl-arm\\8.10.3\\ikvm.image.runtime.linux-musl-arm.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.linux-musl-arm64\\8.10.3\\ikvm.image.runtime.linux-musl-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.linux-musl-x64\\8.10.3\\ikvm.image.runtime.linux-musl-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.linux-x64\\8.10.3\\ikvm.image.runtime.linux-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.osx-arm64\\8.10.3\\ikvm.image.runtime.osx-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.osx-x64\\8.10.3\\ikvm.image.runtime.osx-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.win-arm64\\8.10.3\\ikvm.image.runtime.win-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.win-x64\\8.10.3\\ikvm.image.runtime.win-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.image.runtime.win-x86\\8.10.3\\ikvm.image.runtime.win-x86.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild\\8.10.3\\ikvm.msbuild.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools\\8.10.3\\ikvm.msbuild.tools.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.linux-arm\\8.10.3\\ikvm.msbuild.tools.runtime.linux-arm.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.linux-arm64\\8.10.3\\ikvm.msbuild.tools.runtime.linux-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.linux-x64\\8.10.3\\ikvm.msbuild.tools.runtime.linux-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.osx-arm64\\8.10.3\\ikvm.msbuild.tools.runtime.osx-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.osx-x64\\8.10.3\\ikvm.msbuild.tools.runtime.osx-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.win-arm64\\8.10.3\\ikvm.msbuild.tools.runtime.win-arm64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\ikvm.msbuild.tools.runtime.win-x64\\8.10.3\\ikvm.msbuild.tools.runtime.win-x64.8.10.3.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\mvc2futures\\2.0.50217\\mvc2futures.2.0.50217.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\egorg\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Mvc2Futures 2.0.50217\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Mvc2Futures",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

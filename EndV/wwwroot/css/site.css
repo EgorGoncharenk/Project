@@ -1,0 +1,489 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*Основной код сверху снизу добавленный*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #030535, #030535);
+}
+
+
+
+
+.page {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+}
+
+.my-button {
+    padding: 10px 60px;
+    font-size: 45px;
+    color: #929292;
+    background-color: #720603;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 30px;
+    right: 130px;
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 0.3s ease;
+    margin-bottom: 25px;
+}
+
+    .my-button:hover {
+        box-shadow: 10px 0 20px rgba(0,0,0,0.8);
+    }
+
+/*Виджет*/
+
+.widget {
+    position: fixed;
+    right: 0;
+    top: 20%;
+    transform: translateY(-50%);
+    transition: width 0.3s ease;
+    width: 50px; /* Ширина виджета в закрытом состоянии */
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.toggle-button {
+    background-color: #886836;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 22px;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.2s ease;
+}
+    .toggle-button:active {
+        transform: scale(0.96);
+    }
+
+.social-icons {
+    display: none; /* Скрытые иконки */
+    flex-direction: column;
+    padding: 10px;
+}
+
+.social-icon {
+    text-decoration: none;
+    font-size: 24px;
+    margin: 5px 0;
+    color: #000;
+    transition: color 0.3s ease;
+}
+
+    .social-icon:hover {
+        color: #007bff;
+    }
+
+.widget.open {
+    width: 50px; /* Ширина виджета в открытом состоянии */
+    background-color: #aa8e62; /* Цвет для открытого состояния */
+}
+
+    .widget.open .social-icons {
+        display: flex; /* Показать иконки */
+    }
+
+
+
+/*Блок 2*/
+
+.image-text-block {
+    display: flex;
+    align-items: center; /* Центрирует элементы по вертикали */
+    margin: 70px; /* Отступы вокруг блока */
+    
+}
+
+.image {
+    width: 500px; /* Ширина изображения */
+    height: auto; /* Автоматическая высота для сохранения пропорций */
+    margin-right: 90px; /* Отступ справа от изображения */
+    border-radius: 8px; /* Скругление углов изображения (по желанию) */
+}
+
+.text {
+    max-width: 600px;
+    text-align: center; /* Максимальная ширина текстового блока */
+}
+
+    .text h2 {
+        font-size: 38px; /* Размер заголовка */
+        margin: 0; /* Убираем стандартные отступы */
+        font-family: 'Berlin Sans FB';
+        color: #bd9270;
+    }
+
+    .text p {
+        font-size: 24px; /* Размер текста */
+        line-height: 1.5; /* Межстрочный интервал */
+        color: #a88c5b;
+        padding: 30px;/* Цвет текста */
+    }
+
+
+    /*Блок 3*/
+
+.gallery {
+    margin: 70px;
+    margin-left: 30px;
+    margin: 0 10px; /* Отступ между изображениями */
+}
+
+.gallery-image {
+    width: 300px; /* Измените размер под ваши нужды */
+    height: auto;
+    border: 2px solid rgba(0,0,0,0.8);
+    border-radius: 20px;
+    transition: transform 0.2s; /* Анимация при наведении */
+    margin: 0 100px; /* Отступ между изображениями */
+}
+
+    .gallery-image:hover {
+        transform: scale(1.05); /* Увеличение картинки при наведении */
+    }
+
+    /*Блок 4*/
+
+.carousel {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 300px;
+    height: 400px;
+    margin: 0 -10px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+    .card img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .card:hover {
+        transform: scale(1.2);
+    }
+
+/*Форма страница*/
+
+#body_form {
+    background: linear-gradient(to right, #440503, #030535);
+}
+
+
+#container_form {
+    justify-content: center; /* Центрируем контейнер */
+    align-items: flex-start;
+    display: flex;
+    align-items: flex-start;
+    position: relative; /* Для абсолютного позиционирования формы */
+    margin-left: 80px;
+}
+
+.image-container {
+    margin-right: 40px;
+    margin-top: 50px; /* Отступ между изображением и текстом */
+}
+
+    .image-container img {
+        width: 360px; /* Ширина картинки */
+        height: auto; /* Автоматическая высота для сохранения пропорций */
+        border-radius: 8px; /* Закругление углов картинки*/
+    }
+
+.image4 {
+    margin-left: -116px; /* Установите нужное значение (например, 0, 5px и т.д.) */
+}
+
+.text-container {
+    text-align: center; /* Центрируем текст */
+}
+
+    .text-container h2 {
+        font-size: 24px; /* Размер заголовка */
+        margin: 0; /* Убираем стандартные отступы */
+        font-family: 'Berlin Sans FB';
+        margin-top: 50px;
+        color: #bd9270;
+    }
+
+    .text-container p {
+        font-size: 16px; /* Размер текста */
+        line-height: 1.5; /* Межстрочный интервал */
+        color: #555; /* Цвет текста */
+        padding: 30px;
+    }
+
+
+.form-container {
+    margin-left: 40px; /* Отступ слева для формы */
+    margin-top: 189px; /* Отступ сверху для формы */
+    background-color: rgba(0, 0, 0, 0.2); /* Прозрачный фон */
+    padding: 40px;
+    border-radius: 8px; /* Закругленные углы */
+}
+
+form {
+    display: flex;
+    flex-direction: column; /* Вертикальное расположение полей */
+}
+
+label {
+    margin-bottom: 4px; /* Отступ снизу для меток */
+    font-size: 14px;
+    color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="submit"] {
+    width: 384px; /* Ширина всех полей */
+    height: 40px; /* Высота всех полей */
+    margin-bottom: 10px; /* Отступ между полями */
+    padding: 10px;
+    border: 1px; /* Граница полей */
+    border-radius: 4px; /* Закругленные углы */
+    font-size: 16px; /* Размер шрифта */
+    transition: all 0.3s ease; /* Плавные переходы */
+}
+
+
+    input[type="text"]:focus,
+    input[type="email"]:focus {
+        border-color: #66afe9; /* Цвет границы при фокусе */
+        outline: none; /* Убираем стандартное обведение */
+    }
+
+
+input[type="submit"] {
+    background-color: #720603; /* Цвет кнопки */
+    color: white; /* Цвет текста кнопки */
+    cursor: pointer; /* Курсор при наведении */
+}
+
+    input[type="submit"]:hover {
+        background-color: #440503; /* Цвет кнопки при наведении */
+    }
+
+.submit-button {
+    margin-top: 15px; /* Увеличьте значение по вашему усмотрению */
+}
+
+.register-btn { /* Кнопка регистрации */
+    padding: 10px;
+    background-color: #720603;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+}
+
+    .register-btn:hover {
+        background-color: #440503;
+    }
+
+
+                    /* Плейсхолдеры */
+input::placeholder {
+    color: #bbb; /* Цвет плейсхолдера */
+}
+
+input:focus::placeholder {
+    color: transparent; /* Скрываем плейсхолдер при фокусе */
+}
+
+/*Политика конфиденциальности*/
+
+#container_privacy {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #a39e9e;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+}
+    #container_privacy h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    #container_privacy table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    #container_privacy th, td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #container_privacy th {
+        background-color: #a39e9e;
+        color: #333;
+    }
+
+    #container_privacy tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    #container_privacy ul {
+        margin-top: 20px;
+        padding-left: 20px;
+    }
+
+
+/* Страница Джеймса */
+
+#body_djeims {
+    background: linear-gradient(to right, #440503, #030535);
+}
+
+#container_djeims {
+    justify-content: center; /* Центрируем контейнер */
+    align-items: flex-start;
+    display: flex;
+    align-items: flex-start;
+    position: relative; /* Для абсолютного позиционирования формы */
+    margin-left: 80px;
+}
+
+#image-container5 {
+    margin-right: 40px;
+    margin-top: 50px; /* Отступ между изображением и текстом */
+}
+
+    .image-container img {
+        width: 360px; /* Ширина картинки */
+        height: auto; /* Автоматическая высота для сохранения пропорций */
+        border-radius: 8px; /* Закругление углов картинки*/
+    }
+
+.image5 {
+    margin-left: -116px; /* Установите нужное значение (например, 0, 5px и т.д.) */
+}
+
+.text-container_djems {
+    text-align: center; /* Центрируем текст */
+}
+
+    .text-container h2 {
+        font-size: 38px; /* Размер заголовка */
+        margin: 0; /* Убираем стандартные отступы */
+        font-family: 'Berlin Sans FB';
+        margin-top: 80px;
+        color: #bd9270;
+    }
+
+    .text-container p {
+        font-size: 24px; /* Размер текста */
+        line-height: 1.5; /* Межстрочный интервал */
+        color: #a88c5b; /* Цвет текста */
+        padding: 30px;
+    }
+
+/* Страница Луизы */
+
+#body_luiza {
+    background: linear-gradient(to right, #030535,#440503);
+}
+#container_djeims {
+    justify-content: center; /* Центрируем контейнер */
+    align-items: flex-start;
+    display: flex;
+    align-items: flex-start;
+    position: relative; /* Для абсолютного позиционирования формы */
+    margin-left: 80px;
+}
+
+#image-container5 {
+    margin-right: 40px;
+    margin-top: 50px; /* Отступ между изображением и текстом */
+}
+
+    .image-container img {
+        width: 360px; /* Ширина картинки */
+        height: auto; /* Автоматическая высота для сохранения пропорций */
+        border-radius: 8px; /* Закругление углов картинки*/
+    }
+
+.image5 {
+    margin-left: -116px; /* Установите нужное значение (например, 0, 5px и т.д.) */
+}
+
+.text-container_djems {
+    text-align: center; /* Центрируем текст */
+}
+
+    .text-container h2 {
+        font-size: 38px; /* Размер заголовка */
+        margin: 0; /* Убираем стандартные отступы */
+        font-family: 'Berlin Sans FB';
+        margin-top: 80px;
+        color: #bd9270;
+    }
+
+.text-container p {
+    font-size: 24px; /* Размер текста */
+    line-height: 1.5; /* Межстрочный интервал */
+    color: #a88c5b; /* Цвет текста */
+    padding: 30px;
+}
+
+
+
+
+
+/*Футтер*/
+
+.footer {
+    background-color: rgba(0,0,0,0.8);
+}

@@ -1,0 +1,104 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+.header[b-1nlv6a8efo] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    z-index: 1000;
+    height: 0px;
+}
+
+.logo[b-1nlv6a8efo] {
+    font-size: 24px;
+    color: brown;
+    font-family: 'Berlin Sans FB';
+}
+
+.menu[b-1nlv6a8efo] {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+    .menu ul[b-1nlv6a8efo] {
+        list-style: none;
+        display: flex;
+    }
+
+    .menu li[b-1nlv6a8efo] {
+        margin: 15px;
+        margin-top: 25px;
+    }
+
+    .menu a[b-1nlv6a8efo] {
+        text-decoration: none;
+        color: #a52a2a;
+        font-family: 'Berlin Sans FB';
+        font-size: 20px;
+        position: relative;
+        padding: 5px 0;
+        transition: color 0.3s;
+    }
+
+        .menu a[b-1nlv6a8efo]::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            width: 0;
+            height: 2px;
+            background: #440503;
+            transition: width 0.3s ease, left 0.3s ease;
+        }
+
+        .menu a:hover[b-1nlv6a8efo]::after {
+            width: 100%;
+            left: 0;
+        }
+
+.phone[b-1nlv6a8efo] {
+    font-weight: bold;
+}
+
+
+/*Шторка со вкладки*/
+
+.dropdown-content[b-1nlv6a8efo] {
+    display: none;
+    position: absolute;
+    background-color: rgba(0,0,0,0.9);
+    min-width: 120px;
+    z-index: 1;
+}
+
+    .dropdown-content a[b-1nlv6a8efo] {
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        color: #bd9270;
+    }
+
+        .dropdown-content a:hover[b-1nlv6a8efo] {
+            background-color: #555;
+        }
+
+.dropdown:hover .dropdown-content[b-1nlv6a8efo] {
+    display: block;
+}
+
+.footer[b-1nlv6a8efo] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

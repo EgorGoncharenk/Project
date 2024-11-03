@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div id="page1" class="page" style="background-image: url('/img/Home_slim_end.jpg');">
+        <button class="my-button" onclick="redirectToPage()">Загрузить игру</button>
+    </div>
+
+    <div id="page2" class="page" style="background-image: url('/img/');">
+        <div class="image-text-block">
+            <img src="~/img/lor.jpeg" alt="Описание изображения" class="image">
+            <div class="text">
+                <h2>Лор</h2>
+                <p>
+                    Высокие небоскребы и старинные здания, скрытые в тени, призывают игроков на поиски разгадок и секретов, спрятанных в их стенах. Церкви и храмы выглядят как врата в параллельные миры, где возможны встречи с духами и силами, не поддающимися объяснению. Медиумы и ясновидящие тоже оказываются в центре внимания, предсказывая будущее и общаясь с потусторонними силами.
+                    Некоторые медиумы принимают клиентов на дому, игнорируя возможные последствия своих контактов с загадочным миром. Их темные и безумные
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div id="page3" class="page" style="background-image: url('/img/background3.jpg');">
+        <div class="gallery">
+            <a href="Djeims">
+                <img src="~/img/djeims.jpeg" alt="Описание картинки 1" class="gallery-image">
+            </a>
+            <a href="Luiza">
+                <img src="~/img/luiza.jpeg" alt="Описание картинки 2" class="gallery-image">
+            </a>
+        </div>
+    </div>
+    <div id="page4" class="page">
+        <div class="carousel">
+            <div class="card" data-card="1">
+                <img src="~/img/card3.jpeg" alt="Card 1">
+            </div>
+            <div class="card" data-card="2">
+                <img src="~/img/card2.jpeg" alt="Card 2">
+            </div>
+            <div class="card" data-card="3">
+                <img src="~/img/card1.jpeg" alt="Card 3">
+            </div>
+            <div class="card" data-card="4">
+                <img src="~/img/card4.jpeg" alt="Card 4">
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
