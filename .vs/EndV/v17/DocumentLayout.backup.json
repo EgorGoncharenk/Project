@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\",
+  "WorkspaceRootPath": "C:\\Users\\dymch\\source\\repos\\EndV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\views\\djeims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\djeims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\views\\luiza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\views\\luiza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\luiza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\egorg\\onedrive\\desktop\\endv\\endv\\views\\djeims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\djeims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\views\\minorcharacters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\minorcharacters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|c:\\users\\dymch\\source\\repos\\endv\\endv\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1274E63-47F0-4C02-B074-FCC57AD983FE}|EndV\\EndV.csproj|solutionrelative:endv\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,13 +46,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "EndV\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "EndV\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAPIAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "EndV\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAANYAAAAAAAAAAAAAAOcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-23T07:01:27.174Z",
               "IsPinned": true,
@@ -56,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Registration\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Registration\\Index.cshtml",
               "RelativeDocumentMoniker": "EndV\\Views\\Registration\\Index.cshtml",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Registration\\Index.cshtml",
               "RelativeToolTip": "EndV\\Views\\Registration\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -70,68 +74,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "EndV\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\js\\site.js",
               "RelativeToolTip": "EndV\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-10-23T07:05:49.654Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\MinorCharacters\\Index.cshtml",
+              "RelativeDocumentMoniker": "EndV\\Views\\MinorCharacters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\MinorCharacters\\Index.cshtml",
+              "RelativeToolTip": "EndV\\Views\\MinorCharacters\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T09:29:14.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EndV\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EndV\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T05:35:31.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Luiza\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Luiza\\Index.cshtml",
               "RelativeDocumentMoniker": "EndV\\Views\\Luiza\\Index.cshtml",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Luiza\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Luiza\\Index.cshtml",
               "RelativeToolTip": "EndV\\Views\\Luiza\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T04:51:27.934Z"
+              "WhenOpened": "2024-11-01T04:51:27.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Djeims\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Djeims\\Index.cshtml",
               "RelativeDocumentMoniker": "EndV\\Views\\Djeims\\Index.cshtml",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Djeims\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Djeims\\Index.cshtml",
               "RelativeToolTip": "EndV\\Views\\Djeims\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T04:37:43.558Z"
+              "WhenOpened": "2024-11-01T04:37:43.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Form\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Form\\Index.cshtml",
               "RelativeDocumentMoniker": "EndV\\Views\\Form\\Index.cshtml",
-              "ToolTip": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\Views\\Form\\Index.cshtml",
-              "RelativeToolTip": "EndV\\Views\\Form\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\Views\\Form\\Index.cshtml*",
+              "RelativeToolTip": "EndV\\Views\\Form\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAADUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-23T07:05:36.357Z",
               "EditorCaption": ""

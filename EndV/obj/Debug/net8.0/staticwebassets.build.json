@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h60xOtFCtBe7j7gZBU26Wl6psOo+6crTk8aJMeWIfgg=",
+  "Hash": "Oxeli1O7ocKvg25jKvz6+sI3NTLrBLOUa3K2jdatQOw=",
   "Source": "EndV",
   "BasePath": "_content/EndV",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EndV\\wwwroot",
       "Source": "EndV",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EndV.styles.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EndV.styles.css",
       "SourceId": "EndV",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EndV",
       "RelativePath": "EndV.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EndV.styles.css"
+      "OriginalItemSpec": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EndV.styles.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndV.bundle.scp.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndV.bundle.scp.css",
       "SourceId": "EndV",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EndV",
       "RelativePath": "EndV.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndV.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndV.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\css\\site.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\favicon.ico",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\background3.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\background_cards.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
-      "RelativePath": "img/background3.jpg",
+      "RelativePath": "img/background_cards.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,13 +109,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\background3.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\background_cards.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\card1.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\backgroundwidget.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
+      "BasePath": "_content/EndV",
+      "RelativePath": "img/backgroundwidget.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\backgroundwidget.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\card1.jpeg",
+      "SourceId": "EndV",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/card1.jpeg",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\card1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\card2.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\card2.jpeg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/card2.jpeg",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\card2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\card3.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\card3.jpeg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/card3.jpeg",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\card3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\card4.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\card4.jpeg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/card4.jpeg",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\card4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\cerep.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\cerep.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/cerep.jpg",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cerep.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\djeims.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\djeims.jpeg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/djeims.jpeg",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\djeims.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\djeims.png",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\djeims.png",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/djeims.png",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\djeims.png"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\drugi.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\drugi.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/drugi.jpg",
       "AssetKind": "All",
@@ -264,12 +283,12 @@
       "OriginalItemSpec": "wwwroot\\img\\drugi.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\form.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\form.png",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
-      "RelativePath": "img/form.jpeg",
+      "RelativePath": "img/form.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\form.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\form.png"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\Home_border.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\Home_border.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/Home_border.jpg",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Home_border.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\home_osn.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\home_osn.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/home_osn.jpg",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\home_osn.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\Home_slim_end.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\Home_slim_end.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/Home_slim_end.jpg",
       "AssetKind": "All",
@@ -340,10 +359,29 @@
       "OriginalItemSpec": "wwwroot\\img\\Home_slim_end.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\lor.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\line.png",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
+      "BasePath": "_content/EndV",
+      "RelativePath": "img/line.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\line.png"
+    },
+    {
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\lor.jpeg",
+      "SourceId": "EndV",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/lor.jpeg",
       "AssetKind": "All",
@@ -359,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lor.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\luiza.jpeg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\luiza.jpeg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/luiza.jpeg",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\luiza.jpeg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\img\\w.jpg",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\w.jpg",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "img/w.jpg",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\w.jpg"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\js\\site.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -416,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -435,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -454,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -473,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -492,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -511,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -587,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -606,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -625,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -644,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -663,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -739,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -758,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -777,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -796,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -815,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -834,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -853,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -872,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -891,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -910,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -929,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -948,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -967,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -986,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1005,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1024,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1043,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1062,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1081,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1100,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1119,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1138,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1157,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1176,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1195,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1214,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1233,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1252,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1271,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1290,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1309,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1328,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1347,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1366,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1385,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1404,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1423,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1442,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1461,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1480,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "EndV",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\egorg\\OneDrive\\Desktop\\EndV\\EndV\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
       "BasePath": "_content/EndV",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

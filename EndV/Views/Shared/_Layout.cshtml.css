@@ -2,6 +2,10 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 
+.body {
+    background: linear-gradient(to right, #42236, #030535);
+}
+
 .header {
     position: fixed;
     top: 0;

@@ -31,7 +31,7 @@ body {
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #030535, #030535);
+    background: linear-gradient(to bottom, #031624, #113857)
 }
 
 
@@ -46,6 +46,7 @@ body {
     align-items: center;
     color: white;
     position: relative;
+    margin-bottom: 20px;
 }
 
 .my-button {
@@ -188,6 +189,7 @@ body {
 .carousel {
     display: flex;
     justify-content: center;
+    margin: 70px;
 }
 
 .card {
@@ -212,7 +214,7 @@ body {
 /*Форма страница*/
 
 #body_form {
-    background: linear-gradient(to right, #440503, #030535);
+    background: linear-gradient(to bottom, #031624, #2f7db9)
 }
 
 
@@ -227,7 +229,7 @@ body {
 
 .image-container {
     margin-right: 40px;
-    margin-top: 50px; /* Отступ между изображением и текстом */
+    margin-top: 160px; /* Отступ сверху */
 }
 
     .image-container img {
@@ -479,11 +481,29 @@ input:focus::placeholder {
 }
 
 
+/* Страница массовки */
 
+.text {
+    text-align: center; /* Центрируем текст */
+}
+
+    .text h2 {
+        font-size: 36px; /* Размер заголовка */
+        margin: 0; /* Убираем стандартные отступы */
+        font-family: 'Berlin Sans FB';
+        margin-top: 80px;
+        color: #bd9270;
+    }
+
+    .text p {
+        font-size: 20px; /* Размер текста */
+        line-height: 1.5; /* Межстрочный интервал */
+        color: #a88c5b; /* Цвет текста */
+        padding: 30px;
+    }
 
 
 /*Футтер*/
-
 .footer {
     background-color: rgba(0,0,0,0.8);
 }
