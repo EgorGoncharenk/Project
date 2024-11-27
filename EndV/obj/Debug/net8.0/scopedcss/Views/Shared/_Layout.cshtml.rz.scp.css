@@ -99,10 +99,13 @@ for details on configuring this project to bundle and minify static web assets. 
     display: block;
 }
 
+/*Футер*/
+
 .footer[b-1nlv6a8efo] {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    background-color: rgba(0,0,0,0.8);
 }

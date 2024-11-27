@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\img\\backgroundwidget.jpg"
     },
     {
+      "Id": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\bg_feedBack.jpg",
+      "PackagePath": "staticwebassets\\img\\bg_feedBack.jpg"
+    },
+    {
       "Id": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\card1.jpeg",
       "PackagePath": "staticwebassets\\img\\card1.jpeg"
     },
@@ -79,10 +83,6 @@
     {
       "Id": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\luiza.jpeg",
       "PackagePath": "staticwebassets\\img\\luiza.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\w.jpg",
-      "PackagePath": "staticwebassets\\img\\w.jpg"
     },
     {
       "Id": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\js\\site.js",

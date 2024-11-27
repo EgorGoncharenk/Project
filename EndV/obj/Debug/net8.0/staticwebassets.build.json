@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Oxeli1O7ocKvg25jKvz6+sI3NTLrBLOUa3K2jdatQOw=",
+  "Hash": "gmx/L7XdXPSxaKTEGZArpee/vUqOV5YKHOZNXgKLSwI=",
   "Source": "EndV",
   "BasePath": "_content/EndV",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\backgroundwidget.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\bg_feedBack.jpg",
+      "SourceId": "EndV",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
+      "BasePath": "_content/EndV",
+      "RelativePath": "img/bg_feedBack.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bg_feedBack.jpg"
     },
     {
       "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\card1.jpeg",
@@ -414,25 +433,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\luiza.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\img\\w.jpg",
-      "SourceId": "EndV",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\",
-      "BasePath": "_content/EndV",
-      "RelativePath": "img/w.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\w.jpg"
     },
     {
       "Identity": "C:\\Users\\dymch\\source\\repos\\EndV\\EndV\\wwwroot\\js\\site.js",

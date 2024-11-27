@@ -503,7 +503,222 @@ input:focus::placeholder {
     }
 
 
-/*Футтер*/
-.footer {
-    background-color: rgba(0,0,0,0.8);
+/* Страница обратной связи*/
+
+
+#body_feedback, #html_feedback {
+    height: 100%;
+    font-family: 'Berlin Sans FB', Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #42236, #030535);
+}
+
+#container_feedback {
+    display: flex;
+    width: 300%;
+    max-width: 1200px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0); /* Полупрозрачный фон */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+}
+
+/* Раздел формы слева */
+#form-section_feedback {
+    flex: 1;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0); /* Более светлый полупрозрачный фон */
+    display: flex;
+    flex-direction: column;
+}
+
+.form-section h2 {
+    margin-bottom: 20px;
+    color: #a39e9e;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+    }
+
+    .form-group input,
+    .form-group textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+
+    .form-group textarea {
+        resize: vertical;
+        height: 100px;
+    }
+
+.submit-btn {
+    margin-top: 20px;
+    padding: 12px;
+    width: 100%;
+    color: #fff;
+    background-color: #720603;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .submit-btn:hover {
+        background-color: #440503;
+    }
+
+/* Раздел с контактной информацией справа */
+.info-section {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url('/img/bg_feedBack.jpg');
+    background-size: cover;
+    background-position: right;
+    background-blend-mode: unset;
+
+}
+
+    .info-section h2 {
+        margin-bottom: 20px;
+        color: #e0ac51;
+        text-align: center;
+    }
+
+    .info-section p,
+    .info-section li {
+        color: #a39e9e;
+        margin-bottom: 10px;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .info-section ul {
+        list-style: none;
+    }
+
+.contact-widget {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 140px;
+    color: #e0ac51;
+    font-family: 'Berlin Sans FB';
+    font-size: 24px;
+    margin-left: 160px;
+}
+
+.contact-list {
+    display: none;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 1px solid #ccc;
+    z-index: 1;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Страница регистрации*/
+
+#body_reg {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container_reg {
+    display: flex;
+    width: 300%;
+    max-width: 1200px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2); /* Полупрозрачный фон */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+}
+
+
+
+.left, .right {
+    padding: 20px;
+    flex: 1;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-image: url('/img/bg_feedBack.jpg');
+    background-size: cover;
+    background-position: right;
+    background-blend-mode: unset;
+    padding: 30px;
+}
+
+.left h2 {
+    margin-bottom: 20px;
+    color: #e0ac51;
+    text-align: center;
+}
+
+.left p {
+    color: #a39e9e;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.right {
+    background: linear-gradient(to bottom, #031624, #113857);
+    color: #e0ac51;
+}
+
+
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#button_reg {
+    background-color: #720603;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+    button:hover {
+        background-color: #440503;
+    }
+
+.error-message {
+    color: red;
+    margin-top: 10px;
 }

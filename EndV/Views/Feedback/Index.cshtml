@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Feedback";
+}
+
+<html lang="ru" id="html_feedback">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Обратная связь</title>
+</head>
+<body id="body_feedback">
+
+    <div class="container" id="container_feedback">
+        <!-- Раздел формы слева -->
+        <div class="form-section" id="form-section_feedback">
+            <h2>Обратная связь</h2>
+            <form id="feedbackForm">
+                <div class="form-group">
+                    <label for="name">Имя</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Электронная почта</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="feedback">Отзыв</label>
+                    <textarea id="feedback" name="feedback" required></textarea>
+                </div>
+                <button type="submit" class="submit-btn">Отправить</button>
+            </form>
+        </div>
+
+        <!-- Раздел с контактной информацией справа -->
+        <div class="info-section">
+            <h2>Контактные данные</h2>
+            <p>Процесс разработки игры — это увлекательное и трудоёмкое занятие, требующее много сил, ресурсов и времени. 
+                Если вы хотите поддержать разработку и внести свой вклад в развитие нашего проекта, 
+                мы будем очень благодарны за любую помощь! 
+            </p>
+            <div class="contact-widget">
+                <span class="show-contact-info">Наши реквизиты</span>
+                <div class="contact-list">
+                    <p>Email: dymchenko_nady@mail.ru</p>
+                    <p>Телефон: +79502876268</p>
+                    <p>Реквизиты: 1234567890123456</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

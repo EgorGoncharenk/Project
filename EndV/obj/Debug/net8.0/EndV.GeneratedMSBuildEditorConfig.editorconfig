@@ -22,8 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGplaW1zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/dymch/source/repos/EndV/EndV/Views/Feedback/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dymch/source/repos/EndV/EndV/Views/Form/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dymch/source/repos/EndV/EndV/Views/GameMechanics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZU1lY2hhbmljc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dymch/source/repos/EndV/EndV/Views/Home/Index.cshtml]
